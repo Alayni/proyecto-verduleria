@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+.h5-titulo-carrucel{
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 50px;
+ }
+
+.class col-sm-4{
+    padding: 100%;
+padding-top: 40px;
+ }
+ .class-container {
+     align-items: bottom;
+     min-width: center;
+     margin-top: 50px;
+     
+
+ }
+ p {
+     text-align: center;
+ }
+.h5-contendido{
+    margin-left:1em;
+    text-align: left;
+    margin-left: 0px;
+ }
+ .contenido{
+    margin-left: 2em;
+    text-align: left;
+  }
+.container-fluid{ 
+    max-height: 200px;
+}
